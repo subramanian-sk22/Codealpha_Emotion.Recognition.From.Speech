@@ -297,14 +297,6 @@ BiLSTM
         +
 Model Evaluation
         +
-Streamlit Deployment
-👨‍💻 Author
-
-Avirup Saha
-
-B.Tech — Computer Science & Engineering (AI & ML)
-
-⭐ Project Summary
 
 Speech Emotion Recognition is a deep learning application that extracts MFCC, Delta, and Delta-Delta features from speech and uses a CNN + BiLSTM architecture to classify the speaker's emotional state into eight categories. The system provides both microphone and WAV-file input through an interactive Streamlit interface and achieved 90.62% test accuracy on the project's RAVDESS test set.
 
